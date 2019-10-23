@@ -1,0 +1,3 @@
+model_checkpoint_path: "/tmp/data/cls_3.mbs_25.k_shot_1.inner_numstep1.inner_updatelr0.4/model200"
+all_model_checkpoint_paths: "/tmp/data/cls_3.mbs_25.k_shot_1.inner_numstep1.inner_updatelr0.4/model100"
+all_model_checkpoint_paths: "/tmp/data/cls_3.mbs_25.k_shot_1.inner_numstep1.inner_updatelr0.4/model200"
